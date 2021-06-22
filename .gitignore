@@ -130,6 +130,3 @@ dmypy.json
 
 # test_files
 test.py
-
-# except for .gitkeep
-!.gitkeep
